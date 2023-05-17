@@ -1,0 +1,15 @@
+D:\CTDL\ThucHanh\Bai2\bin\Debug\net7.0\Bai2.exe
+D:\CTDL\ThucHanh\Bai2\bin\Debug\net7.0\Bai2.deps.json
+D:\CTDL\ThucHanh\Bai2\bin\Debug\net7.0\Bai2.runtimeconfig.json
+D:\CTDL\ThucHanh\Bai2\bin\Debug\net7.0\Bai2.dll
+D:\CTDL\ThucHanh\Bai2\bin\Debug\net7.0\Bai2.pdb
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.csproj.AssemblyReference.cache
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfoInputs.cache
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfo.cs
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.csproj.CoreCompileInputs.cache
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.dll
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\refint\Bai2.dll
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.pdb
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\Bai2.genruntimeconfig.cache
+D:\CTDL\ThucHanh\Bai2\obj\Debug\net7.0\ref\Bai2.dll
